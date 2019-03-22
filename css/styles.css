@@ -1,17 +1,29 @@
 h1 {
-  text-align: center;
   color: #660066
+  float: left;
+
 }
 
-.center {
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 25%;
+img {
+  width: 50%;
+  height: 50%;
+  float: right;
 }
+
+.jumbotron {
+  height: 300px;
+  image-orientation: right;
+}
+
+
+.lorem-text {
+  border: 6px blue;
+}
+
 
 h2, h3 {
   color: #660066
+  border: 2px
 }
 
 .interests {
