@@ -1,8 +1,13 @@
 h1 {
   text-align: center;
+  color: #660066
 }
 
 img {
   width: 100%
-  
+
+}
+
+h2, h3 {
+  color: #660066
 }
