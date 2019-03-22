@@ -17,7 +17,9 @@ img {
 
 
 .lorem1 {
-  color: #d41243
+  color: #d41243;
+  border: 2px solid red;
+  padding: 4px
 }
 
 .lorem2 {
