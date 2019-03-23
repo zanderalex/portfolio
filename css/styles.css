@@ -11,12 +11,11 @@ img {
 }
 
 .jumbotron {
-  height: 300px;
-  image-orientation: right;
+  height: 200px;
 }
 
-.jumbotron img {
-  max-width: 400px
+img {
+  max-width: 100px
 }
 
 
@@ -35,6 +34,11 @@ img {
 
 .interests {
   color: #f47835;
+  padding: 4px;
+}
+
+.interests {
+color: #f47835;
 }
 
 .skill {
