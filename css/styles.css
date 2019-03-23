@@ -15,6 +15,10 @@ img {
   image-orientation: right;
 }
 
+.jumbotron img {
+  max-width: 100px
+}
+
 
 .lorem1 {
   color: #d41243;
@@ -23,19 +27,15 @@ img {
 }
 
 .lorem2 {
-  color: #00aedb
-}
-
-
-h2, h3 {
-  color: #660066
-  border: 2px
+  color: #00aedb;
+  border: 2px solid blue;
+  padding: 4px
 }
 
 .interests {
-color: #f47835
+color: #f47835;
 }
 
 .skill {
-  color: #8ec127
+  color: #8ec127;
 }
