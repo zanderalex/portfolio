@@ -8,8 +8,16 @@ body {
 h1 {
   color: #660066;
   float: left;
-  font-family:fantasy;
+  font-family:Questrial;
   font-size: 75px
+}
+
+h2 {
+  font-family: Roboto
+}
+
+h3 {
+  font-family: Raleway
 }
 
 img {
