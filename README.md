@@ -8,7 +8,7 @@ GitHub repo: https://github.com/zanderalex/portfolio__
 
 ## Description
 
-_This is a HTML document demonstrating what I learned during the first week at Epicodus.  It includes links to GitHub, images as well as information about me._
+_This is a HTML document demonstrating what I learned during the first week at Epicodus.  It includes links to GitHub as well as information about me._
 
 ## Setup/Installation Requirements
 
