@@ -1,6 +1,8 @@
 # _Portfolio_
 
-#### _This is a HTML document demonstrating what I learned during the first week at Epicodus. https://github.com/zanderalex/portfolio__
+#### _This is a HTML document demonstrating what I learned during the first week at Epicodus.
+Webpage: https://zanderalex.github.io/portfolio/
+GitHub repo: https://github.com/zanderalex/portfolio__
 
 #### By _**Alex Martinez**_
 
